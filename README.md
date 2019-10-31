@@ -37,6 +37,8 @@
 - Выключатель https://ali.ski/W3U367
 - Микро серво https://ali.ski/OccRI
 - Гироскоп https://ali.ski/dkEkHp
+- Очки металл https://lite.shara.li/bYVEGd
+- Очки пластик https://lite.shara.li/8olhUM
 
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
