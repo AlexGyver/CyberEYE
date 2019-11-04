@@ -10,10 +10,6 @@
 ServoSmooth servoY, servoX;
 
 void setup() {
-  uart.begin();
-  delay(100);
-  uart.println();
-
   // подключаем серво и отпраляем в центр
   servoY.attach(SERVO_Y);
   servoX.attach(SERVO_X);
