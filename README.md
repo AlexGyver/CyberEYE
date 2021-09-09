@@ -31,12 +31,12 @@
 <a id="chapter-3"></a>
 ## Материалы и компоненты
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
-- Arduino NANO https://ali.ski/qYi4d
-- Повышайка https://ali.ski/25VCX
-- Акум https://ali.ski/xspy_B
-- Выключатель https://ali.ski/W3U367
-- Микро серво https://ali.ski/OccRI
-- Гироскоп https://ali.ski/dkEkHp
+- Arduino NANO https://ali.ski/dqO1ow
+- Повышайка https://ali.ski/mxjcRz
+- Акум https://ali.ski/srPdCV
+- Выключатель https://ali.ski/lFl34
+- Микро серво https://ali.ski/H1GXMy
+- Гироскоп https://ali.ski/u1-nnX
 - Очки металл https://lite.shara.li/bYVEGd
 - Очки пластик https://lite.shara.li/8olhUM
 
