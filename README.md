@@ -29,17 +29,6 @@
 ![SCHEME](https://github.com/AlexGyver/CyberEYE/blob/master/schemes/scheme2.jpg)
 
 <a id="chapter-3"></a>
-## Материалы и компоненты
-### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
-- Arduino NANO https://ali.ski/qYi4d
-- Повышайка https://ali.ski/25VCX
-- Акум https://ali.ski/xspy_B
-- Выключатель https://ali.ski/W3U367
-- Микро серво https://ali.ski/OccRI
-- Гироскоп https://ali.ski/dkEkHp
-- Очки металл https://lite.shara.li/bYVEGd
-- Очки пластик https://lite.shara.li/8olhUM
-
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
 * [Недорогие инструменты](http://alexgyver.ru/my_instruments/)
